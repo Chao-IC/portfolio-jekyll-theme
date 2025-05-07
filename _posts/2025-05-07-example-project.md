@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Example Project"
-date: 2025-05-07
 ---
 ```python
 import pandas as pd
