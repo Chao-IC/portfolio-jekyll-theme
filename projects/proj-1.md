@@ -42,21 +42,26 @@ Figure 2.  A geographical map of Central London boroughs visualizes the average 
 
 ![Average Food Hygiene Rating by Central London Borough](https://github.com/user-attachments/assets/64f01f97-0cd8-4a10-8621-1f2bc2f07962)
 
+
 Figure 3.  Across the 14 Central London boroughs, Westminster, Camden, and Southwark host the highest numbers of food businesses, whereas Kensington and Chelsea, the City of London, and Greenwich exhibit the highest average hygiene ratings.
 
 ![Hygiene_Rating_Percentage_with_Business_Count](https://github.com/user-attachments/assets/3e79245d-03e5-4c03-9755-307020ac509b)
+
 
 Figure 4.  Among the 14 identified food business types, establishments in educational institutions, supermarkets, and healthcare or childcare facilities demonstrate better hygiene performance.
 
 ![Percentage of Hygiene Ratings per Business Type (Sorted by Rating 5)](https://github.com/user-attachments/assets/82779468-8526-4cca-ab00-87b01f85c37b)
 
+
 Figure 5.  A linear regression analysis of average deprivation decile versus hygiene rating by borough shows a moderately positive relationship between them, suggesting that less deprived (more affluent) boroughs tend to have higher hygiene ratings.
 
 ![Relationship Between Average Deprivation Decile and Hygiene Rating by Borough](https://github.com/user-attachments/assets/c05628e5-8357-411f-bf76-60796fd9a0d1)
 
+
 Figure 6.  A heatmap visualizing the correlation between the hygiene rating and each deprivation decile, suggesting the highest correlation with a moderately strong relationship between Education and Skills and Hygiene Rating (r = 0.63). This result indicates that boroughs with better education and skill levels tend to have higher food hygiene ratings.
 
 ![Correlation between Hygiene Rating and Deprivation Decile Metrics by Borough](https://github.com/user-attachments/assets/5c4a997b-ee24-4823-b154-f7d1f8917816)
+
 
 Figure 7.  After a multiple regression analysis, the Living Environment Decile stands out for its distinct contribution in the whole matrix. Even if it's not obvious in stand-alone correlations, better living environments may indirectly support the hygiene performance of local food businesses in the borough.
 
