@@ -2,14 +2,14 @@
 layout: post
 title: 'Capstone Project'
 ---
-#Executive Summary
+Executive Summary
 
 This project explores the relationship between local affluence and food hygiene standards across Central London boroughs. The analysis reveals that more affluent areas generally exhibit higher hygiene performance. The region’s education and skill level may influence the food hygiene rating, and the living environment could be an indicator to distinguish the region's food hygiene conditions. 
 
 Among the 12,242 food businesses analyzed, 67.2% received a 'Very Good' hygiene rating. Kensington and Chelsea, the City of London, and Greenwich rank as the top three boroughs with the highest average hygiene scores. Furthermore, business types in educational institutions, supermarkets, and healthcare or childcare facilities outperform more than commercialized businesses like mobile caterers, restaurants, and takeaway shops.
 
 
-#Introduction
+Introduction
 
 When choosing where to eat or shop for food, consumers often rely on platforms like Google Reviews, Tripadvisor, or Yelp, which offer user ratings, cost information, and customer feedback. However, an equally important yet often overlooked factor is food hygiene, a critical indicator of public health and safety. While this data is publicly available through government websites, it remains absent from mainstream commercial review apps. As a result, the public may lack knowledge of how food hygiene is performed in their living environment.
 
@@ -18,7 +18,7 @@ To fill this gap, this project focuses on food hygiene inspection performance wi
 The aim of this project is to investigate whether a borough's level of affluence influences the hygiene standards of its food establishments. Key research questions include: Which boroughs demonstrate better hygiene performance? Does affluence correlate with food hygiene outcomes? What factors (e.g., deprivation metrics or business type) are associated with higher or lower hygiene ratings? All datasets used in this project are real, publicly available, and geographically granular, making this a robust, data-driven investigation into a public health issue.
 
 
-#Methods 
+Methods 
 
 This project draws upon two public datasets: the Food Hygiene Ratings dataset from the Food Standards Agency (accessed via food.gov.uk API) and the English Indices of Deprivation (2019) obtained from opendatacommunities.org. The raw hygiene dataset contains 40,302 observations and 10 attributes, covering food businesses’ hygiene ratings, business types, postcodes, and boroughs. The raw deprivation dataset includes 32,690 observations and 28 attributes describing multiple deprivation indicators at the Lower-layer Super Output Area (LSOA) level.
 
