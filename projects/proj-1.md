@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 'Capstone Project'
+title: 'An Investigation into Food Hygiene Across Central London Boroughs'
 ---
+
+
 ## Executive Summary
 
 This project explores the relationship between local affluence and food hygiene standards across Central London boroughs. The analysis reveals that more affluent areas generally exhibit higher hygiene performance. The region’s education and skill level may influence the food hygiene rating, and the living environment could be an indicator to distinguish the region's food hygiene conditions. 
