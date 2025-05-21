@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'IC Capstone Project',   url: 'IC_Capstone_Project'}
+- {name: 'IC Capstone Project',   url: 'proj-1'}
 
 #-------------------------------
 # Contact Section
