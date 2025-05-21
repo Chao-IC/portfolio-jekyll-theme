@@ -31,7 +31,7 @@ The two datasets were merged using a left join on the Postcode column, ensuring 
 
 ## Results
 
-Figure 1.  Of the 12,242 food businesses surveyed, 67.2% achieved a ’Very Good’ hygiene rating, while 5% required various degrees of improvement (ratings 0 to 3).
+Figure 1.  Of the 12,242 food businesses analyzed, 67.2% achieved a ’Very Good’ hygiene rating, while 5% required various degrees of improvement (ratings from 0 to 3).
 
 ![Distribution of Hygiene Ratings in Central London Boroughs](https://github.com/user-attachments/assets/960d12ed-b276-4169-9085-a4780abfabbc)
 
