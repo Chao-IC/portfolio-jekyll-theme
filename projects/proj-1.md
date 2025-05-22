@@ -13,7 +13,7 @@ Among the 12,242 food businesses analyzed, 67.2% received a ‘Very Good’ hygi
 
 ## Introduction
 
-When deciding where to eat or shop for food, people have gotten used to checking platforms like Google, Tripadvisor, or Yelp for insights into customer experiences, price expectations, and overall satisfaction. However, an equally important yet often overlooked factor is food hygiene, a critical factor of public health and safety. While this data is publicly available through government websites, it remains largely absent from what platforms we have just mentioned. As a result, the public may remain unfamiliar with how food hygiene is practiced in food establishments in their local area.
+When deciding where to eat or shop for food, people have gotten used to checking platforms like Google, Tripadvisor, or Yelp for insights into customer reviews, price references, and overall satisfaction. However, an equally important but often overlooked thing is food hygiene, a critical part of public health and safety. While this data is publicly available through government websites, it remains largely absent from what platforms we have just mentioned. As a result, the public may remain unfamiliar with how food hygiene is practiced in food establishments in their local area.
 
 To fill this gap, this project explores food hygiene performance across Central London boroughs, with a particular focus on how these outcomes relate to other factors. To enable this, the project integrates the English Indices of Deprivation, which provide detailed geographical data on factors such as income, employment, education, crime, and living environment at the postcode level. 
     
