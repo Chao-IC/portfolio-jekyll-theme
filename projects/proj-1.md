@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Investigation into Food Hygiene Across Central London Boroughs'
+title: 'Food Hygiene Across Central London Boroughs'
 ---
 
 
