@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Food Hygiene and local affluence Across Central London Boroughs'
+title: 'Food Hygiene Across Central London Boroughs'
 ---
 
 
