@@ -51,7 +51,7 @@ Figure 4.  Among the 14 identified food business types, establishments in educat
 ![Percentage of Hygiene Ratings per Business Type (Sorted by Rating 5)](https://github.com/user-attachments/assets/82779468-8526-4cca-ab00-87b01f85c37b)
 
 
-Figure 5.  A linear regression analysis of average deprivation decile versus hygiene rating by borough shows a moderately positive relationship between food hygiene and local affluence, suggesting that less deprived (more affluent) boroughs tend to have higher hygiene ratings.
+Figure 5.  A linear regression analysis of average deprivation decile versus hygiene rating by borough shows a moderately positive relationship between food hygiene and local affluence, suggesting that less deprived/higher decile (more affluent) boroughs tend to have higher hygiene ratings. (Note: deprivation decile is inversely related to deprivation: Decile 1 = most deprived, Decile 10 = least deprived (most affluent)).
 
 ![Relationship Between Average Deprivation Decile and Hygiene Rating by Borough](https://github.com/user-attachments/assets/c05628e5-8357-411f-bf76-60796fd9a0d1)
 
