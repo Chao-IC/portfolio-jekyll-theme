@@ -12,4 +12,4 @@ My journey began in the world of luxury, particularly in jewellery and watches, 
 
 When I’m not studying or researching, you’ll probably find me shooting with my Leica M, chasing light and moments on 35mm film.
 
-<img width="300" alt="Screenshot 2025-05-30 at 12 43 42" src="https://github.com/user-attachments/assets/508d7fd6-0b2e-468b-a30e-4ad31cc9f33d" />
+<img width="300" alt="Picture1" src="https://github.com/user-attachments/assets/7ee43c8a-5100-4d1a-8cf7-73f1fb90a7f7" />
