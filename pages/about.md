@@ -8,7 +8,7 @@ permalink: /about
 
 Hi, I’m Chao Yang, a London-based learner with a unique blend of expertise in data analytics, luxury brand management, and creative digital animation.
 
-My journey began in the world of luxury, particularly in jewellery and watches, where I earned a Graduate Gemologist from the Gemological Institute of America and an MA in Luxury Brand Management from the University of Southampton. Currently, I’m preparing to dive deeper into the world of International Marketing at King’s College London. I am passionate about combining creativity, digital innovation, and analytical insights to deliver meaningful impact in the present.
+My journey began in the world of luxury, particularly in jewellery and watches, where I earned a Graduate Gemologist from the Gemological Institute of America and an MA in Luxury Brand Management from the University of Southampton. Currently, I’m preparing to dive deeper into the world of International Marketing at King’s College London. My new interest is machine learning, developing models, and I have been making efforts to polish my skills. I am passionate about combining creativity, digital innovation, and data analytics to deliver a meaningful impact in the present.
 
 When I’m not studying or researching, you’ll probably find me shooting with my Leica M, chasing light and moments on 35mm film.
 
