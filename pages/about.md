@@ -12,4 +12,5 @@ My journey began in the world of branding and marketing, with experience in even
 
 When I’m not studying or researching, you’ll probably find me shooting with my Leica M, chasing light and moments on 35mm film.
 
-<img width="295" alt="Picture1" src="https://github.com/user-attachments/assets/38086d94-1080-460f-87c9-c5fae42be633" />
+<img width="295" alt="Picture1" src="https://github.com/user-attachments/assets/eed45407-7005-47ad-8967-e72bd3ec18cb" />
+
